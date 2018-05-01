@@ -1,0 +1,8 @@
+
+.cproject
+.project
+.settings/language.settings.xml
+.settings/org.eclipse.cdt.codan.core.prefs
+.settings/org.eclipse.cdt.managedbuilder.core.prefs
+*.o
+*.exe
